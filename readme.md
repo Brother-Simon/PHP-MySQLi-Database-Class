@@ -1,5 +1,6 @@
 MysqliDb -- Simple MySQLi wrapper and object mapper with prepared statements
 <hr>
+mysqli的抽象接口
 ### Table of Contents
 **[Initialization](#initialization)**  
 **[Objects mapping](#objects-mapping)**  
